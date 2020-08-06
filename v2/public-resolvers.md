@@ -91,3 +91,23 @@ Cloudflare DNS over IPv6 (anycast) with malware blocking
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
+
+## cloudflare-v3
+
+Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
+
+sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
+
+
+## cloudflare-family-v3
+
+Cloudflare DNS (anycast) with malware protection and parental control - aka 1.1.1.3 / 1.0.0.3
+
+sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## cloudflare-security-v3
+
+Cloudflare DNS (anycast) with malware blocking - aka 1.1.1.2 / 1.0.0.2
+
+sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
